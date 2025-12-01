@@ -1,2 +1,3 @@
-import x9_core as flame
+import flame
 flame.main()
+
