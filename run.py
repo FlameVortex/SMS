@@ -1,3 +1,2 @@
 import flame
-flame.main()
 
