@@ -1,5 +1,3 @@
-#kira bokachuda ay khane ki,,,,,,tor chudlingpong,,,,,,,vag ante
-
 import base64 as __A, zlib as __B, marshal as __C, importlib, sys
 
 try:
@@ -9,3 +7,4 @@ try:
 except Exception as E:
     print("Error:", E)
     sys.exit(1)
+
