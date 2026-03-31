@@ -1,3 +1,0 @@
-import flame
-
-flame.main()
